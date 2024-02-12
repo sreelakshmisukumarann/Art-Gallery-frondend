@@ -1,0 +1,12 @@
+.focus:focus{
+    outline: 1px solid red;
+}
+.focus{
+    border-radius: 5px;
+    padding: 2px;
+    margin: auto;
+    /* width: 92%; */
+}
+
+
+
